@@ -1,16 +1,5 @@
 <?php
 
-namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
-use \App\Models\KmTransaction;
-use \App\Models\Merchant;
-use Illuminate\Support\Facades\Validator;
-use DataTables;
-use App\User;
-use App;
-use App\Models\KmConversionRate;
-
 class PointConversion extends Controller
 {
     public function start(Request $request){

@@ -1,0 +1,71 @@
+import 'dart:ui';
+
+import 'package:flutter/material.dart';
+
+class CommonColors {
+  static const primaryColor = Color(0xFF000000);
+  static const primaryDarkColor = Color(0xFFF88804);
+  static const primaryAppBackground = Color(0xFFf3f4f6);
+  static const primaryWhite = Colors.white;
+  static const primaryBlack = Colors.black;
+  static const appBarHome = Color(0xFF2274f4);
+  static const black = Color(0xFF000000);
+  static const white = Color(0xFFFFFFFF);
+  static const color_323232 = Color(0xFF323232);
+  static const color_969696 = Color(0xFF969696);
+  static const color_925D3E = Color(0xFF925D3E);
+  static const color_f5ebe9 = Color(0xFFf5ebe9);
+  static const color_separator = Color(0xFFd8d8d8);
+  static const color_separator1= Color(0xFFF4F6F8);
+
+  static const COLOR_THEME = Color( 0xFFF67611 );
+  static const COLOR_TRANSPARENT = Colors.transparent;
+  static const COLOR_TRANS_BLACK = Color(0x33000000);
+  static const COLOR_WHITE = Colors.white;
+  static const COLOR_BLACK = Colors.black;
+  static const COLOR_GRAY_BG = Color(0xFFCBD3DC);
+  static const COLOR_JADE = Color(0xFF4BC6E6);
+  static const COLOR_RED_LIGHT = Color(0xFFFDE4CF);
+  static const COLOR_FB_BG = Color(0xFF2F4E89);
+  static const COLOR_LIGHT_GREEN = Color(0xFF23BA73);
+  static const COLOR_GREEN_PAYMENT = Color(0xff45be1a);
+  static const COLOR_BLUE_DARK = Color(0xff195CD2);
+  static const COLOR_ORANGE = Color(0xFFF67611);
+  static const COLOR_ORANGE_LIGHT = Color(0xFFFFEBDC);
+  static const COLOR_TEXT_BLACK = Color(0xff202020);
+  static const COLOR_TEXT_LIGHT = Color(0xff8d939d);
+  static const COLOR_RED = Color(0xffF12943);
+  static const COLOR_GREEN_DARK = Color(0xff007d52);
+  static const COLOR_GRAY_LIGHT = Color(0xfff0f3f7);
+  static const COLOR_BLUE_LIGHT = Color(0xff1ea4f2);
+  static const COLOR_BLUE_LIGHT_BACK = Color(0xffC2DAEF);
+  static const COLOR_PURPLE_LIGHT = Color(0xffFFEEF0);
+  static const COLOR_TEXT_MAIN = Color(0xff1C1F26);
+  static const COLOR_GREEN = Color(0xff2DD05B);
+  static const COLOR_GRAY = Color(0xff67696E);
+  static const COLOR_TEXTBOX_BG = Color(0xffeef1f8);
+  static const COLOR_BLUE = Color(0xff2970E3);
+  static const COLOR_BLUE_GRADIENT_ONE = Color(0xff00aef0);
+  static const COLOR_BLUE_GRADIENT_TWO = Color(0xff095de0);
+  static const COLOR_ORANGE_GRADIENT_ONE = Color(0xffffb347);
+  static const COLOR_ORANGE_GRADIENT_TWO = Color(0xffffcc33);
+  static const COLOR_BUTTON_RED = Color(0xffee1d23);
+  static const COLOR_BG_RED = Color(0xffee1d23);
+  static const COLOR_BUTTON_GRAY = Color(0xff5f666b);
+  static const COLOR_TITLE_GRAY = Color(0xff918f8f);
+  static const COLOR_TITLE_BLACK = Color(0xff231f20);
+  static const COLOR_BG = Color(0xffe6e6e6);
+  static const COLOR_BG_WHITE = Color(0xffefeff0);
+  static const COLOR_LIGHT_GRAY = Color(0xffF0F3F7);
+  static const COLOR_BLACK_80 = Color(0xff231f20);
+  static const COLOR_BLACK_90 = Color(0xff000000);
+  static const COLOR_WHITE_60 = Colors.white60;
+  static const COLOR_WHITE_70 = Colors.white70;
+  static const COLOR_YELLOW = Color(0xffdaab3d);
+  static const COLOR_HINT = Color(0x4d4e4e4e);
+  static const COLOR_ATTENDENCE_BACK = Color(0xFFd26aee);
+  static const COLOR_LIGHT_PINK = Color(0xFFEDB7B8);
+  static const COLOR_DARK_GRAY = Color(0xFF383838);
+  static const COLOR_BLUE_NEW = Color(0xFF112d7b);
+}
+
